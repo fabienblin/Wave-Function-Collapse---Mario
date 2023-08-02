@@ -1,2 +1,2 @@
-# Wave-Function-Collapse---Mario
+# Wave Function Collapse - Mario
 Procédural Mario level generation using WFC algorithm
